@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0127-word-ladder/) | Hard |
 | [0140-word-break-ii](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0140-word-break-ii/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +63,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0140-word-break-ii/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
