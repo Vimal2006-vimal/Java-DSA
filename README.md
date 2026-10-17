@@ -25,8 +25,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0125-valid-palindrome/) | Easy |
+| [0127-word-ladder](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0127-word-ladder/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/2574-left-and-right-sum-differences/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0127-word-ladder/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0127-word-ladder/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/Vimal2006-vimal/Java-DSA/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
